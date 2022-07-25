@@ -9,7 +9,7 @@ This may change a lot in the next few weeks as we learn more about analysis and 
 For the present moment, make an educated estimate
 A concluding paragraph of what insights you expect to gain from your research
 
-## Intro
+## Proposal
 
 My research is focused on transfer market of football.
 
