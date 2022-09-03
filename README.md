@@ -21,6 +21,4 @@ Graphics and dynamic charts will be presented.
 
 I expect to know how top transfer fees will change in the next 5 years. Also I want to do some prediction on the top one transfer in one year or two. And I guess Russia-Ukraine conflict may have a great impact on this.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cannotwakeup/final_project_nathan/main)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/cannotwakeup/final_project_nathan/main
+Binder is here. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cannotwakeup/final_project_nathan/main)
